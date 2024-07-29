@@ -141,8 +141,6 @@ def Charge_Calculator(Charge_List):
         print(f'Countercation Only Standard Deviation Atomic Charge: {round(Countercation_Only_Standard_Deviation_Atomic_Charge, 3)}')
     
     
-    return(Total_Charge, Total_Mean_Atomic_Charge, Standard_Deviation_Atomic_Charge, Oxygen_Only_Mean_Atomic_Charge, Oxygen_Only_Standard_Deviation_Atomic_Charge, 
-           Tungsten_Only_Mean_Atomic_Charge, Heteroatom_Only_Mean_Atomic_Charge, Tungsten_Only_Standard_Deviation_Atomic_Charge,Heteroatom_Only_Standard_Deviation_Atomic_Charge, 
-           Countercation_Only_Mean_Atomic_Charge, Countercation_Only_Standard_Deviation_Atomic_Charge)
+    return(Total_Charge, Total_Mean_Atomic_Charge, Standard_Deviation_Atomic_Charge, Oxygen_Only_Mean_Atomic_Charge, Oxygen_Only_Standard_Deviation_Atomic_Charge, Tungsten_Only_Mean_Atomic_Charge, Heteroatom_Only_Mean_Atomic_Charge, Tungsten_Only_Standard_Deviation_Atomic_Charge,Heteroatom_Only_Standard_Deviation_Atomic_Charge, Countercation_Only_Mean_Atomic_Charge, Countercation_Only_Standard_Deviation_Atomic_Charge)
 
     
